@@ -1,0 +1,119 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family:'Coiny',cursive;
+    /* background: #34495e; */
+    background-image: url("sky2.jpg");
+     background-size: cover;
+     
+}
+/* .tittle:hover{
+  color: #e68a71;
+} */
+
+  .tittle{
+    text-align: center;
+    font-size: 3rem;
+    color: #f1e2e2;
+    margin: 2%;
+    text-shadow: 2px 4px 2px #b9241f;
+    -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 4s; /* Firefox < 16s */
+    -ms-animation: fadein 4s; /* Internet Explorer */
+    -o-animation: fadein 4s; /* Opera < 12.1 */
+    animation: fadein 4s;
+  }
+  #about{
+    margin: 0%;
+  }
+  #content{
+    font-size: 25px;
+  }
+  .h2{
+    color: #e09ec9ea;
+    text-align: center;
+  }
+  #message{
+    
+     font-size :2rem; 
+     color: #ed7272cb;
+     
+  }
+
+  
+  .display{
+    left:10%;
+     /* text-shadow:2px 2px 2px #e9120a;  */
+  }
+  
+  .container{
+    width:300px;
+    padding: 35px;
+    position: absolute;
+     top: 70%;
+    left: 50%; 
+    transform: translate(-50%,-50%);
+    background: #f4d7d7;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 50px 50px;
+    max-width: 50%;
+    max-height: 50%;
+   
+  }
+
+  .container h2{
+    padding: 0%;
+    margin: 0%;
+  }
+  .header h1{
+    color: rgb(235, 137, 137);
+    font-weight: 500;
+    text-align: center;
+  
+  }
+  .container input[type="text"],.container input[type="text"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #3498db;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: rgb(50, 46, 46);
+    font-size: 16px;
+    border-radius: 24px;
+    /* transition: 0.25s; */
+  }
+  .container input[type="text"]:focus,.container input[type="text"]:focus{
+    width: 280px;
+    border-color: #e95774e1;
+  }
+ 
+ .container button[type="submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #2ecc71;
+    padding: 14px 25px;
+    outline: none;
+    color: rgb(110, 109, 109);
+    border-radius: 24px;
+    /* transition: 0.25s; */
+    font-size: 17px;
+    font-family: 'Libre Baskerville', serif;
+  }
+  .container button[type="submit"]:hover{
+    background: #2ecc71;
+  }
+  .emoji{
+    font-size: 3rem;
+    padding: 0;
+  }
+  
+ 

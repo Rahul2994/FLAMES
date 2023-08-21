@@ -1,2 +1,7 @@
 # FLAMES
-Flames application which will remember our school days .
+Flames application is game application which was played in school days.
+Languages:
+           HTML
+           CSS
+           Javascript     
+          

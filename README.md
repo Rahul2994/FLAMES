@@ -4,8 +4,8 @@ The "FLAMES" application is a nostalgic game that many of us fondly remember pla
 
 ## Languages:
 ```
-           HTML
-           CSS 
-           Javascript
+-HTML
+-CSS 
+-Jvascript
 ```
 
